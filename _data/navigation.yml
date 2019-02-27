@@ -1,0 +1,77 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Individuals
+  url: /individuals/locals/
+  sub-links:
+  - title: Locals
+    url: /individuals/locals/
+  - title: Foreigners
+    url: /individuals/foreigners/
+  - title: Related
+    url: /individuals/related/
+- title: Businesses
+  url: /businesses/companies/
+  sub-links:
+  - title: Companies
+    url: /businesses/companies/
+  - title: Self Employed Sole Proprietors Partners
+    url: /businesses/self-employed-sole-proprietors-partners/
+  - title: Employers
+    url: /businesses/employers/
+- title: GST
+  url: /gst/gst-relgistered-businesses/
+  sub-links:
+  - title: Gst Relgistered Businesses
+    url: /gst/gst-relgistered-businesses/
+  - title: Non Gst Registered Businesses
+    url: /gst/non-gst-registered-businesses/
+  - title: Consumers
+    url: /gst/consumers/
+- title: Property
+  url: /property/property-owners/
+  sub-links:
+  - title: Property Owners
+    url: /property/property-owners/
+  - title: Preperty Buyers
+    url: /property/preperty-buyers/
+  - title: Property Professionals
+    url: /property/property-professionals/
+- title: Other Taxes
+  url: /other-taxes/stamp-duties/
+  sub-links:
+  - title: Stamp Duties
+    url: /other-taxes/stamp-duties/
+  - title: Withholding Tax
+    url: /other-taxes/withholding-tax/
+  - title: Trust
+    url: /other-taxes/trust/
+  - title: Clubs Associations
+    url: /other-taxes/clubs-associations/
+  - title: Charities
+    url: /other-taxes/charities/
+- title: Schemes
+  url: /schemes/top-schemes/
+  sub-links:
+  - title: Top Schemes
+    url: /schemes/top-schemes/
+  - title: Other Schemes
+    url: /schemes/other-schemes/
+- title: News Events
+  url: /news-events/
+  sub-links:
+  - title: All
+    url: /news-events/
+  - title: Newsroom
+    url: /news-events/newsroom/
+  - title: Events
+    url: /news-events/events/
+  - title: Singapore Budget
+    url: /news-events/singapore-budget/
+  - title: Annoucements
+    url: /news-events/annoucements/
+  - title: Publications
+    url: /news-events/publications/

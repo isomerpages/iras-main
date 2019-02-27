@@ -1,0 +1,35 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon-iras.png
+
+# Agency logo
+agency-logo: /images/logo-agency.png
+
+# Hero Banner
+hero-title: Make Tax Filing a Breeze
+hero-subtitle: Submit your employee information by 1 March
+hero-banner: /images/AIS banner.png
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
+
+key-highlights:
+  - title: Simpler Tax Filing for Partners
+    description: File forms via MyTax Portal
+  - title: Monitor your Business Revenue
+    description: Determine if you need to register for GST
+  - title: Tax Season 2019
+    description: All you need to know
+    url: /page-A/
+
+resources-title: News & Events
+resources-subtitle: Be in the know
+resources-more-button: More News & Events
+resources-more-button-url: news-events/

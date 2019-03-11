@@ -14,3 +14,4 @@ If you received a letter or SMS informing that you have been selected for NFS, y
 #### Do I need to file a tax return?
  You can use the check your filing requirements tool to check if you need to file a tax return.
 
+![banner image for article](/images/S45 banner.png)

@@ -4,6 +4,8 @@
 #                                #
 ##################################
 
+- title: Who we are
+  url: /individuals/locals/
 - title: Individuals
   url: /individuals/locals/
   sub-links:

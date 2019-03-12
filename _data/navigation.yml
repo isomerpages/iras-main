@@ -6,6 +6,15 @@
 
 - title: Who we are
   url: /individuals/locals/
+   sub-links:
+ - title: About IRAS
+    url: /individuals/locals/
+ - title: Careers
+    url: /individuals/foreigners/
+ - title: Publications
+    url: /individuals/related/
+ - title: Feedback
+    url: /individuals/related/
 - title: Individuals
   url: /individuals/locals/
   sub-links:

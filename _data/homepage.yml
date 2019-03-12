@@ -21,22 +21,13 @@ button:
     url: /who-we-are/
 
 key-highlights:
-  - title: Individuals
-    description: File forms via MyTax Portal
-  - title: Businesses
-    description: Determine if you need to register for GST
-  - title: GST
-    description: All you need to know
-  - title: Property
-    description: All you need to know
-  - title: Other Taxes
-    description: All you need to know
-  - title: Schemes
-    description: All you need to know
   - title: Digital Services
-    description: All you need to know
+    description: View all IRAS' digital services here
+  - title: Popular pages
+    description: Determine if you need to register for GST
+  - title: Quick Links
 
-resources-title: News & Events
+resources-title: Latest Updates
 resources-subtitle: Be in the know
-resources-more-button: More News & Events
+resources-more-button: More
 resources-more-button-url: news-events/

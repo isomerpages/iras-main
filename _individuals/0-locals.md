@@ -6,12 +6,49 @@ breadcrumb: Locals
 collection_name: individuals
 ---
 
-#### Received a letter or SMS about No-Filing Service (NFS)?
-If you received a letter or SMS informing that you have been selected for NFS, you do not need to file a tax return. You may log in to myTax.iras.gov.sg to preview your Notice of Assessment (NOA) and request  an early assessment before 19 Apr 2019.
- 
- Alternatively, your NOA or tax bill will be sent to you from Jun 2019. Please note that it is your responsibility to ensure that your NOA is accurate. If you have any other income that is not shown in the NOA, or your relief claims in the NOA are incorrect, please inform us within 30 days from the date of your NOA.
+## Locals
 
-#### Do I need to file a tax return?
- You can use the check your filing requirements tool to check if you need to file a tax return.
+### Learning the basics
+* Basic Guide for New Tax Payers
+* Individuals Required to Pay Income Tax
+* Am I an Employee or a Self-Employed
+* Keeping proper records
 
-![banner image for article](/images/S45 banner.jpg)
+### Working Out Your Taxes
+* What is Taxable, What is Not
+* Deductions for Individuals (Reliefs, Expenses, Donations)
+* Income Tax Rates
+* Tax Treaty Benefits
+* Special Tax Schemes
+     
+### Filing your taxes
+* Tax Season 2019 - All You Need To Know
+* Individuals Required to File Tax
+* How to File Tax
+* Common Filing Mistakes
+* Checking Filing Status
+* Reporting Income Previously Not Reported
+* Making Changes After Filing
+* Late Filing or Non-Filing of Tax Returns
+* Errors in Tax Returns
+
+### Paying your taxes/Claiming Refunds
+* How to Read Your Tax Bill
+* How to Pay Tax
+* Objecting to Income Tax Bill
+* Late Payment or Non-Payment of Taxes
+* Tax Refunds
+
+### Getting it right
+* Getting it right
+* Voluntary Disclosure of Errors for Reduced Penalties
+* Individual Audits by IRAS
+* Getting Individuals to Comply
+* Tax Evasion or Fraud
+
+### Other Services
+* Getting a Copy of Your Tax Bill (Notice of Assessment & Other Documents)
+* Updating Personal Particulars
+* Tax Filing for Employees of AIS Employers
+* Settling Tax Matters for the Deceased
+     

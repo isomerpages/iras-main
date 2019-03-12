@@ -7,6 +7,15 @@ collection_name: individuals
 ---
 
 ## Locals
+See also information for freelancers, self-employed, sole proprietors and partners.
+
+> Most popular pages
+> * Tax Season 2019 - All You Need To Know
+> * Tax Season 2019 - About Your Tax Bill
+> * What is Taxable, What is Not
+> *  Deductions for Individuals (Reliefs, Expenses, Donations)
+> * Individuals Required to File Tax
+> * How to File Tax
 
 ### Learning the basics
 * Basic Guide for New Tax Payers

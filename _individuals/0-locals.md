@@ -10,7 +10,7 @@ collection_name: individuals
 See also information for freelancers, self-employed, sole proprietors and partners.
 
 > Most popular pages
-> * Tax Season 2019 - All You Need To Know
+> * [Tax Season 2019 - All You Need To Know](https://prototype-iras-main.netlify.com/individuals/locals/taxseason2019/)
 > * Tax Season 2019 - About Your Tax Bill
 > * What is Taxable, What is Not
 > *  Deductions for Individuals (Reliefs, Expenses, Donations)
@@ -31,7 +31,7 @@ See also information for freelancers, self-employed, sole proprietors and partne
 * Special Tax Schemes
      
 ### Filing your taxes
-* Tax Season 2019 - All You Need To Know
+* [Tax Season 2019 - All You Need To Know](https://prototype-iras-main.netlify.com/individuals/locals/taxseason2019/)
 * Individuals Required to File Tax
 * How to File Tax
 * Common Filing Mistakes

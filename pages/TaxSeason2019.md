@@ -1,8 +1,9 @@
 ---
 layout: simple-page
 title:  "Tax Season 2019"
-permalink: "/tax-season-2019"
+permalink: "/individuals/locals/taxseason2019/"
 breadcrumb: Tax Season 2019
+collection_name: individuals
 ---
 ## Tax Season 2019 - All You Need To Know
 

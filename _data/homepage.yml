@@ -21,13 +21,20 @@ button:
     url: /who-we-are/
 
 key-highlights:
-  - title: Simpler Tax Filing for Partners
+  - title: Individuals
     description: File forms via MyTax Portal
-  - title: Monitor your Business Revenue
+  - title: Businesses
     description: Determine if you need to register for GST
-  - title: Tax Season 2019
+  - title: GST
     description: All you need to know
-    url: /page-A/
+  - title: Property
+    description: All you need to know
+  - title: Other Taxes
+    description: All you need to know
+  - title: Schemes
+    description: All you need to know
+  - title: Digital Services
+    description: All you need to know
 
 resources-title: News & Events
 resources-subtitle: Be in the know

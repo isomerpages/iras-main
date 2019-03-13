@@ -6,18 +6,7 @@
 
 - title: Who we are
   url: /individuals/locals/
-  sub-links:
-  - title: About IRAS
-    url: /individuals/locals/
-  - title: Our Organisation
-    url: /individuals/foreigners/
-  - title: Taxes in Singapore
-    url: /individuals/related/
-  - title: Public Engagement
-    url: /individuals/related/
-  - title: Commitment to Service
-    url: /individuals/related/    
-  - title: Individuals
+- title: Individuals
   url: /individuals/locals/
   sub-links:
   - title: Locals

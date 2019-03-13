@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Our Organisation
-permalink: /who-we-are/our-organisation/
+permalink: /individuals/locals/our-organisation/
 breadcrumb: Our Organisation
 ---
 # Testing

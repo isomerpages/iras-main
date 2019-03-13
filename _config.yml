@@ -52,4 +52,6 @@ collections:
     output: true
   schemes:
     output: true
+  who-we-are:
+    output: true
 resources_name: news-events

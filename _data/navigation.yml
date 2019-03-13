@@ -6,6 +6,9 @@
 
 - title: Who we are
   url: /individuals/locals/
+  sub-links:
+  - title: Locals
+    url: /individuals/locals/  
 - title: Individuals
   url: /individuals/locals/
   sub-links:

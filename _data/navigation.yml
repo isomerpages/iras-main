@@ -5,7 +5,8 @@
 ##################################
 
 - title: Who we are
-  url: /who-we-are/taxes-in-singapore/
+  url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
+  external: true
   sub-links:
   - title: Our Organisation
     url: /who-we-are/taxes-in-singapore/

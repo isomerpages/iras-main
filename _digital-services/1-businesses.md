@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Locals
+title: Businesses
 permalink: /digital-services/businesses/
 breadcrumb: Businesses
 collection_name: digital-services

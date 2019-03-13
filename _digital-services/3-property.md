@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Locals
+title: Property
 permalink: /digital-services/property/
 breadcrumb: Property
 collection_name: digital-services

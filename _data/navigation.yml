@@ -73,18 +73,3 @@
     url: /schemes/top-schemes/
   - title: Other Schemes
     url: /schemes/other-schemes/
-- title: News Events
-  url: /news-events/
-  sub-links:
-  - title: All
-    url: /news-events/
-  - title: Newsroom
-    url: /news-events/newsroom/
-  - title: Events
-    url: /news-events/events/
-  - title: Singapore Budget
-    url: /news-events/singapore-budget/
-  - title: Annoucements
-    url: /news-events/annoucements/
-  - title: Publications
-    url: /news-events/publications/

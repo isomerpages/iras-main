@@ -56,4 +56,6 @@ collections:
     output: true
   digital-services:
     output: true
+  contact-us:
+    output: true
 resources_name: news-events

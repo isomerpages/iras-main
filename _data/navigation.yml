@@ -5,7 +5,18 @@
 ##################################
 
 - title: Who we are
-  url: /individuals/locals/
+  url: /who-we-are/taxes-in-singapore/
+  sub-links:
+  - title: Our Organisation
+    url: /who-we-are/taxes-in-singapore/
+  - title: Taxes in Singapore
+    url: /individuals/locals/    
+  - title: Public Engagement
+    url: /individuals/locals/    
+  - title: Commitment to Service
+    url: /individuals/locals/  
+  - title: Careers
+    url: /individuals/locals/      
 - title: Individuals
   url: /individuals/locals/
   sub-links:
@@ -38,8 +49,8 @@
   sub-links:
   - title: Property Owners
     url: /property/property-owners/
-  - title: Preperty Buyers
-    url: /property/preperty-buyers/
+  - title: Property Buyers
+    url: /property/property-buyers/
   - title: Property Professionals
     url: /property/property-professionals/
 - title: Other Taxes
@@ -62,18 +73,3 @@
     url: /schemes/top-schemes/
   - title: Other Schemes
     url: /schemes/other-schemes/
-- title: News Events
-  url: /news-events/
-  sub-links:
-  - title: All
-    url: /news-events/
-  - title: Newsroom
-    url: /news-events/newsroom/
-  - title: Events
-    url: /news-events/events/
-  - title: Singapore Budget
-    url: /news-events/singapore-budget/
-  - title: Annoucements
-    url: /news-events/annoucements/
-  - title: Publications
-    url: /news-events/publications/

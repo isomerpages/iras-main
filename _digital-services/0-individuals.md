@@ -7,7 +7,7 @@ collection_name: digital-services
 ---
 # This is the digital services for individuals page
 
-<table class="table-h">
+<table>
   <tr>
     <td>Name of Digital Service</td>
     <td>Description</td>
@@ -18,15 +18,18 @@ collection_name: digital-services
   <tr>
     <td>myTax Mail</td>
     <td>A secure email channel to correspond with IRAS on your confidential tax matters.</td>
-    <td>1. Your tax reference number (e.g. NRIC/FIN)
-        2. Your SingPass or [IRAS Unique Account (IUA)](https://www.iras.gov.sg/irashome/iras2fa.aspx)
-        3. Enquiry details
-        4. Supporting attachments (if applicable)  
+    <td>
+      1. Your tax reference number (e.g. NRIC/FIN)
+      2. Your SingPass or [IRAS Unique Account (IUA)](https://www.iras.gov.sg/irashome/iras2fa.aspx)
+      3. Enquiry details
+      4. Supporting attachments (if applicable)  
           * Maximum Size Per File: 5.00 MB 
           * Supported File Type: JPG, PDF, PNG
           * Maximum Files: 5 files with a total file size not exceeding 10.00 MB per message 
-        5. For authorised company staff and tax agents, your organisation's tax reference number is also required. </td>
-    <td>**Submission** 
+      5. For authorised company staff and tax agents, your organisation's tax reference number is also required. 
+    </td>
+    <td>
+      **Submission** 
         10 minutes
         **Processing**
         We will respond to you within 5 working days. We may need more time for complex enquiries and if so, we will inform you. </td>
@@ -60,4 +63,5 @@ collection_name: digital-services
         **Processing**
         The result will be displayed immediately.</td>
     <td>[User Guide](https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Individuals/Extension%20of%20Time%20to%20File.pdf) (1.12 MB)</td>
+    </tr>
  </table>

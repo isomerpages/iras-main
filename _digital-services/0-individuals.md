@@ -19,35 +19,21 @@ collection_name: digital-services
   <tr>
     <td>myTax Mail</td>
     <td>A secure email channel to correspond with IRAS on your confidential tax matters.</td>
-    <td>
-      <ol>
-        <li>
-          Your tax reference number (e.g. NRIC/FIN)
-        </li>
-         <li>
-           Your SingPass or <a href="https://www.iras.gov.sg/irashome/iras2fa.aspx">IRAS Unique Account (IUA)</a>
-        </li>
-         <li>
-          Enquiry details
-        </li>
-         <li>
-          Your tax reference number (e.g. NRIC/FIN)
-        </li>
-        <li>
-          Supporting attachments (if applicable)  
-          * Maximum Size Per File: 5.00 MB 
-          * Supported File Type: JPG, PDF, PNG
-          * Maximum Files: 5 files with a total file size not exceeding 10.00 MB per message 
-        </li>
-        <li>
-          For authorised company staff and tax agents, your organisation's tax reference number is also required
-        </li>
-      </ol> 
-    </td>
+    <td>1. Your tax reference number (e.g. NRIC/FIN)<br>
+        <br>2. Your SingPass or <a href="https://www.iras.gov.sg/irashome/iras2fa.aspx">IRAS Unique Account (IUA)</a><br>
+        <br>3. Enquiry details<br>
+        <br>4. Supporting attachments (if applicable)<br>
+        <br>
+          <ul>
+            <li>Maximum Size Per File: 5.00 MB</li> 
+            <li>Supported File Type: JPG, PDF, PNG</li>
+            <li>Maximum Files: 5 files with a total file size not exceeding 10.00 MB per message</li> 
+          </ul>
+        5. For authorised company staff and tax agents, your organisation's tax reference number is also required.</td>
     <td>
       <b>Submission</b> 
-      10 minutes<br>
-      <b>Processing</b>
+      <br>10 minutes<br>
+      <br><b>Processing</b>
       <br>We will respond to you within 5 working days. We may need more time for complex enquiries and if so, we will inform you. </td>
     <td> 
       <a href="https://www.iras.gov.sg/IRASHome/uploadedFiles/IRASHome/e-Services/myTax%20Mail_FAQ.pdf">FAQ</a>(837 KB)
@@ -64,8 +50,8 @@ collection_name: digital-services
         <br>6. Business Registration Number/Partnership Tax Reference Number, if applicable (for self-employed and partners only).</td>
     <td>
       <b>Submission</b>
-      5 - 10 minutes
-      <b>Processing</b> 
+      <br>5 - 10 minutes<br>
+      <br><b>Processing</b> 
       <br>Most income tax bills i.e. Notice of Assessment are issued between end Apr to Sep each year. 
     </td>
     <td>
@@ -81,7 +67,7 @@ collection_name: digital-services
         2. Your SingPass or  IRAS Unique Account (IUA)</td>
     <td>
       <b>Submission</b> 
-      3 - 5 minutes
+      <br>3 - 5 minutes<br>
       <b>Processing</b>
       <br>The result will be displayed immediately.
     </td>

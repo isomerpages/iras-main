@@ -10,11 +10,11 @@ collection_name: digital-services
 
 <table>
   <tr>
-    <td>Name of Digital Service</td>
-    <td>Description</td>
-    <td>Information Needed</td>
-    <td>Estimated Submission and/or Processing Time</td>
-    <td>Guides/FAQ</td>
+    <td><b>Name of Digital Service</b></td>
+    <td><b>Description</b></td>
+    <td><b>Information Needed</b></td>
+    <td><b>Estimated Submission and/or Processing Time</b></td>
+    <td><b>Guides/FAQ</b></td>
   </tr>
   <tr>
     <td>myTax Mail</td>
@@ -46,7 +46,7 @@ collection_name: digital-services
     </td>
     <td>
       <b>Submission</b> 
-      10 minutes
+      10 minutes<br>
       <b>Processing</b>
       <br>We will respond to you within 5 working days. We may need more time for complex enquiries and if so, we will inform you. </td>
     <td> 
@@ -56,17 +56,12 @@ collection_name: digital-services
   <tr>
     <td>File Individual Income Tax Form B/B1</td>
     <td>File your individual income tax returns (i.e. Form B/ B1).</td>
-    <td>1. Your tax reference number (e.g. NRIC/FIN).
-      
-        2. Your SingPass or IRAS Unique Account (IUA).
-        
-        3. Form IR8A (if your employer is not participating in the Auto-Inclusion scheme for Employment Income).
-        
-        4. Particulars of your dependants (e.g. child, parent) for new relief claims only.
-        
-        5. Details of gross rent and tax deductible expenses incurred on tenanted properties and other income, if any.
-        
-        6. Business Registration Number/Partnership Tax Reference Number, if applicable (for self-employed and partners only).</td>
+    <td>1. Your tax reference number (e.g. NRIC/FIN).<br>      
+        <br>2. Your SingPass or IRAS Unique Account (IUA).<br>       
+        <br>3. Form IR8A (if your employer is not participating in the Auto-Inclusion scheme for Employment Income).<br>        
+        <br>4. Particulars of your dependants (e.g. child, parent) for new relief claims only.<br>        
+        <br>5. Details of gross rent and tax deductible expenses incurred on tenanted properties and other income, if any.<br>        
+        <br>6. Business Registration Number/Partnership Tax Reference Number, if applicable (for self-employed and partners only).</td>
     <td>
       <b>Submission</b>
       5 - 10 minutes

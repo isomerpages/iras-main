@@ -6,3 +6,4 @@ breadcrumb: Need Help to e-File
 collection_name: individuals
 ---
 ## Need Help to e-File
+![Test test test](/images/Combined E-File Infographic_Final -Compressed.png)

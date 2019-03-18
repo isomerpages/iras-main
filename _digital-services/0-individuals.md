@@ -32,7 +32,7 @@ collection_name: digital-services
         5. For authorised company staff and tax agents, your organisation's tax reference number is also required.</td>
     <td>
       <b>Submission</b> 
-      10 minutes<br>
+      <br>10 minutes<br>
       <br><b>Processing</b>
       <br>We will respond to you within 5 working days. We may need more time for complex enquiries and if so, we will inform you. </td>
     <td> 
@@ -67,7 +67,7 @@ collection_name: digital-services
         2. Your SingPass or  IRAS Unique Account (IUA)</td>
     <td>
       <b>Submission</b> 
-      3 - 5 minutes
+      <br>3 - 5 minutes<br>
       <b>Processing</b>
       <br>The result will be displayed immediately.
     </td>

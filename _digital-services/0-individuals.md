@@ -10,11 +10,11 @@ collection_name: digital-services
 
 <table>
   <tr>
-    <td>Name of Digital Service</td>
-    <td>Description</td>
-    <td>Information Needed</td>
-    <td>Estimated Submission and/or Processing Time</td>
-    <td>Guides/FAQ</td>
+    <td>#### Name of Digital Service</td>
+    <td>#### Description</td>
+    <td>#### Information Needed</td>
+    <td>#### Estimated Submission and/or Processing Time</td>
+    <td>#### Guides/FAQ</td>
   </tr>
   <tr>
     <td>myTax Mail</td>
@@ -57,10 +57,15 @@ collection_name: digital-services
     <td>File Individual Income Tax Form B/B1</td>
     <td>File your individual income tax returns (i.e. Form B/ B1).</td>
     <td>1. Your tax reference number (e.g. NRIC/FIN).
+      
         2. Your SingPass or IRAS Unique Account (IUA).
+        
         3. Form IR8A (if your employer is not participating in the Auto-Inclusion scheme for Employment Income).
+        
         4. Particulars of your dependants (e.g. child, parent) for new relief claims only.
+        
         5. Details of gross rent and tax deductible expenses incurred on tenanted properties and other income, if any.
+        
         6. Business Registration Number/Partnership Tax Reference Number, if applicable (for self-employed and partners only).</td>
     <td>
       <b>Submission</b>

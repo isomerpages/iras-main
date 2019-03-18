@@ -23,12 +23,13 @@ collection_name: digital-services
         <br>2. Your SingPass or <a href="https://www.iras.gov.sg/irashome/iras2fa.aspx">IRAS Unique Account (IUA)</a><br>
         <br>3. Enquiry details<br>
         <br>4. Supporting attachments (if applicable)<br>
+        <br>
           <ul>
             <li>Maximum Size Per File: 5.00 MB</li> 
             <li>Supported File Type: JPG, PDF, PNG</li>
             <li>Maximum Files: 5 files with a total file size not exceeding 10.00 MB per message</li> 
           </ul>
-         <br>5. For authorised company staff and tax agents, your organisation's tax reference number is also required.</td>
+        5. For authorised company staff and tax agents, your organisation's tax reference number is also required.</td>
     <td>
       <b>Submission</b> 
       10 minutes<br>

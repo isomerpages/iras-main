@@ -86,7 +86,7 @@ Eligible individuals can use this e-Service to object to their Notice of Origina
     <td><b>Submission</b>
       <br>5 - 10 minutes<br>
       <br><b>Processing</b> 
-      <br>We will send you the revised tax bill i.e. Notice of Assessment, by post or update you on the status of your objection within 10 working days.</td?
+      <br>We will send you the revised tax bill i.e. Notice of Assessment, by post or update you on the status of your objection within 10 working days.</td>
     <td>FAQ (1.06MB)</td></tr>
   <tr>
     <td>Apply for PIC Cash Payout</td>
@@ -96,7 +96,13 @@ Eligible individuals can use this e-Service to object to their Notice of Origina
         <br>3. Your company's tax reference number<br>
         <br>4. Your company's revenue<br>
         <br>5. Information pertaining to costs incurred on qualifying activities<br>
-        <br>Note: If you are claiming costs incurred on PIC IT and Automation Equipment acquired on hire purchase and/or Research and Development costs, please complete the Hire Purchase Template and/ or Research and Development Claim Form, and submit them together with your application.</td>  
+        <br>Note: If you are claiming costs incurred on PIC IT and Automation Equipment acquired on hire purchase and/or Research and Development costs, please complete the Hire Purchase Template and/ or Research and Development Claim Form, and submit them together with your application.</td>
+  <td><b>Submission</b>
+      <br>5 - 10 minutes<br>
+      <br><b>Processing</b> 
+      <br>Most applications will be processed within three months</td>
+    <td>View the PIC Cash Payout e-Submission Video (approx. 7 mins)<br>
+      <br><a href="https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Quick_Links/User%20Guide%20Individual_e-Filing%20of%20PIC%20Cash%20Payout.pdf">Step-by-step guide for Sole-proprietorships</a>(1.23MB)</td>
   </tr>
  </table>
  

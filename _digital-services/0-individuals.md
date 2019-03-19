@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Individuals
 permalink: /digital-services/individuals/
-breadcrumb: Individuals
+breadcrumb: Digital Services for Individuals
 collection_name: digital-services
 ---
 

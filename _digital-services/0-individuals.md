@@ -102,7 +102,7 @@ Eligible individuals can use this e-Service to object to their Notice of Origina
       <br><b>Processing</b> 
       <br>Most applications will be processed within three months</td>
     <td>View the PIC Cash Payout e-Submission Video (approx. 7 mins)<br>
-      <br><a href="https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Quick_Links/User%20Guide%20Individual_e-Filing%20of%20PIC%20Cash%20Payout.pdf">Step-by-step guide for Sole-proprietorships</a>(1.23MB)</td>
+      <br><a href="https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Quick_Links/User%20Guide%20Individual_e-Filing%20of%20PIC%20Cash%20Payout.pdf">Step-by-step guide for Sole-proprietorships</a> (1.23MB)</td>
   </tr>
  </table>
  

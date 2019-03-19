@@ -40,11 +40,11 @@ collection_name: digital-services
     <td>File Individual Income Tax Form B/B1</td>
     <td>File your individual income tax returns (i.e. Form B/ B1).</td>
     <td>1. Your tax reference number (e.g. NRIC/FIN).<br>      
-        <br>2. Your SingPass or IRAS Unique Account (IUA).<br>       
-        <br>3. Form IR8A (if your employer is not participating in the Auto-Inclusion scheme for Employment Income).<br>        
-        <br>4. Particulars of your dependants (e.g. child, parent) for new relief claims only.<br>        
-        <br>5. Details of gross rent and tax deductible expenses incurred on tenanted properties and other income, if any.<br>        
-        <br>6. Business Registration Number/Partnership Tax Reference Number, if applicable (for self-employed and partners only).</td>
+        <br>2. Your SingPass or IRAS Unique Account (IUA)<br>       
+        <br>3. Form IR8A (if your employer is not participating in the Auto-Inclusion scheme for Employment Income)<br>        
+        <br>4. Particulars of your dependants (e.g. child, parent) for new relief claims only<br>        
+        <br>5. Details of gross rent and tax deductible expenses incurred on tenanted properties and other income, if any<br>        
+        <br>6. Business Registration Number/Partnership Tax Reference Number, if applicable (for self-employed and partners only)</td>
     <td>
       <b>Submission</b>
       <br>5 - 10 minutes<br>
@@ -70,6 +70,33 @@ collection_name: digital-services
     <td>
       <a href="https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Individuals/Extension%20of%20Time%20to%20File.pdf">User Guide</a>(1.12 MB)
     </td>
-    </tr>
+  </tr>  
+  <tr>
+    <td>Object to Assessment</td>
+    <td>The ‘Object to Assessment’ e-Service enables individual taxpayers to object to their tax assessment online.
+Eligible individuals can use this e-Service to object to their Notice of Original Assessment for the:<br>
+      <br>1. Current Year of Assessment; and<br> 
+      2. Advance Year of Assessment</td>
+    <td>1. Your tax reference number (e.g. NRIC/FIN)<br>
+      <br>2. Your SingPass or <a href="https://www.iras.gov.sg/irashome/iras2fa.aspx">IRAS Unique Account (IUA)</a><br>
+      <br>3. 3. Scanned copy of supporting documents relating to changes to be made to your previous declaration (e.g. Form IR8A, schedule of employment expenses and supporting documents for changes to rental income/expenses) <br>
+      <br>- Maximum File Size: 4.00 MB<br>
+          - Supported File Type: PDF<br>
+      <br>4. Particulars of your dependants (e.g. child, parent) if you are making a new claim or amending your previous claims</td>
+    <td><b>Submission</b>
+      <br>5 - 10 minutes<br>
+      <br><b>Processing</b> 
+      <br>We will send you the revised tax bill i.e. Notice of Assessment, by post or update you on the status of your objection within 10 working days.</td?
+    <td>FAQ (1.06MB)</td></tr>
+  <tr>
+    <td>Apply for PIC Cash Payout</td>
+    <td>For sole-proprietorship to apply for PIC cash payout via <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx">FAQ</a>mytax.iras.gov.sg.</td>
+    <td>1. Your tax reference number (e.g. NRIC/FIN)<br>
+        <br>2. Your SingPass or <a href="https://www.iras.gov.sg/irashome/iras2fa.aspx">IRAS Unique Account (IUA)</a><br>
+        <br>3. Your company's tax reference number<br>
+        <br>4. Your company's revenue<br>
+        <br>5. Information pertaining to costs incurred on qualifying activities<br>
+        <br>Note: If you are claiming costs incurred on PIC IT and Automation Equipment acquired on hire purchase and/or Research and Development costs, please complete the Hire Purchase Template and/ or Research and Development Claim Form, and submit them together with your application.</td>  
+  </tr>
  </table>
  

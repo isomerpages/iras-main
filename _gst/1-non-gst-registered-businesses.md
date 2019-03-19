@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Non Gst Registered Businesses
+title: Non-GST Registered Businesses
 permalink: /gst/non-gst-registered-businesses/
-breadcrumb: Non Gst Registered Businesses
+breadcrumb: Non-GST Registered Businesses
 collection_name: gst
 ---

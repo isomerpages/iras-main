@@ -13,6 +13,7 @@ Filing for the Year of Assessment (YA) 2019 begins on 1 Mar 2019.
 If you need to submit an income tax return, please do so by the following dates.
 
 e-Filing: 18 Apr 2019
+
 Paper Filing: 15 Apr 2019           
 
 To e-File your tax return, log in to [myTax Portal](https://mytax.iras.gov.sg/ESVWeb/default.aspx) using your SingPass or [IRAS Unique Account (IUA)](https://www.iras.gov.sg/irashome/iras2fa.aspx). 

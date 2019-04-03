@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Calculators
-permalink: /quick-links/calculators/
+permalink: /quick-links/calculatorss/
 breadcrumb: Calculators
 collection_name: quick-links
 ---

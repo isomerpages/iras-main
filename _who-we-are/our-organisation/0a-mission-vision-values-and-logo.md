@@ -53,7 +53,7 @@ Continuously seek new ways to do our work better
 ---
 
 ### Logo
-![""](/images/agency logo 2.PNG)
+![""](/images/iras logo homepage.png)
 
 An early-day coin, energised by a subtle "S" curve across it, suggests the equivalence of taxes and money matters.
 

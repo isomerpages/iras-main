@@ -58,4 +58,6 @@ collections:
     output: true
   contact-us:
     output: true
+  quick-links:
+    output: true
 resources_name: news-events

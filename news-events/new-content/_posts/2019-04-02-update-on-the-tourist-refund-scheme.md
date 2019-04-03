@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Updates on the Tourist Refund Scheme
-date:   2018-01-01
+date:   2019-04-02
 permalink: /news-events/new-content/test
 ---
 ## Advisory on Tourist Refund Scheme

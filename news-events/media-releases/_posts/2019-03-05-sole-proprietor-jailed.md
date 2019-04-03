@@ -2,7 +2,7 @@
 layout: post
 title:  Sole Proprietor Jailed and Penalised for Assisting 13 Others in Making Fraudulent PIC Claims
 date:   2018-03-05
-permalink: /news-events/new-content/test
+permalink: /news-events/new-content/sole-proprietor-jailed-and-penalised-for-assisting-13-others-in-making-fraudulent-PIC-claims/
 ---
 
 ## Sole Proprietor Jailed and Penalised for Assisting 13 Others in Making Fraudulent PIC Claims

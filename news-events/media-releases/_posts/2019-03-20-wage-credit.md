@@ -6,7 +6,7 @@ permalink: /news-events/media-releases/wage-credit
 ---
 ## $600 million in wage credits for more than 90,000 employers by 31 March 2019
 
-###More than 600,000 Singaporean employees will benefit from the wage credits
+### More than 600,000 Singaporean employees will benefit from the wage credits
 
 Over 90,000 employers in Singapore will receive more than $600 million in payouts by 31 March 2019 under the Wage Credit Scheme (WCS). SMEs will receive the bulk of the payouts, at around 70% of the total sum disbursed.
 

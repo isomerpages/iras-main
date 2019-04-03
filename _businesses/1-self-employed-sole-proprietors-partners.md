@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Self Employed Sole Proprietors Partners
+title: Self-employed, Sole-proprietors, Partners
 permalink: /businesses/self-employed-sole-proprietors-partners/
-breadcrumb: Self Employed Sole Proprietors Partners
+breadcrumb: Self-employed, Sole-proprietors, Partners
 collection_name: businesses
 ---

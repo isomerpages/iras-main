@@ -38,9 +38,9 @@
 - title: GST
   url: /gst/gst-relgistered-businesses/
   sub-links:
-  - title: Gst Relgistered Businesses
-    url: /gst/gst-relgistered-businesses/
-  - title: Non Gst Registered Businesses
+  - title: GST-Registered Businesses
+    url: /gst/gst-registered-businesses/
+  - title: Non-GST Registered Businesses
     url: /gst/non-gst-registered-businesses/
   - title: Consumers
     url: /gst/consumers/

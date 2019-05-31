@@ -81,3 +81,40 @@ Please refer here for details on how to update your personal particulars (e.g. n
 #### 8) I lost my tax bill. How can I get a copy of my tax bill?
 Visit myTax Portal to view or save a copy of your tax bill to your smartphone/ other devices, or print a copy of your tax bill. Find out more on getting a copy of your tax bill and other documents.
 For self-employed persons, sole-proprietors and partners: you can find out more about [common filing mistakes](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Filing-your-taxes/Common-Filing-Mistakes-To-Avoid/) specific to your trade, business, vocation or profession.
+
+<span class="chat_emailteam_sgspr">Chat with us online</span>
+<style>
+
+    .chat_emailteam_se {
+
+    display: inline-block;
+
+    -webkit-box-sizing: content-box;
+
+    -moz-box-sizing: content-box;
+
+    box-sizing: content-box;
+
+    padding: 5px;
+
+    border: 1px solid #1B78D6;
+
+    -webkit-border-radius: 0.2em;
+
+    border-radius: 0.2em;
+
+    font-size: 14px;
+
+    color: #fff;
+
+    white-space: nowrap;
+
+    background: #1B78D6;
+
+    cursor:pointer;
+
+    }
+
+</style>
+
+<script  type="text/javascript"  src="//va.ecitizen.gov.sg/cfp/va/iras/js/custom_widget.js"></script>

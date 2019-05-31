@@ -82,22 +82,4 @@ Please refer here for details on how to update your personal particulars (e.g. n
 Visit myTax Portal to view or save a copy of your tax bill to your smartphone/ other devices, or print a copy of your tax bill. Find out more on getting a copy of your tax bill and other documents.
 For self-employed persons, sole-proprietors and partners: you can find out more about [common filing mistakes](https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Filing-your-taxes/Common-Filing-Mistakes-To-Avoid/) specific to your trade, business, vocation or profession.
 
-<span class="chat_emailteam_sgspr">Chat with us online</span>
-<style>
-    .chat_emailteam_se {
-    display: inline-block;
-    -webkit-box-sizing: content-box;
-    -moz-box-sizing: content-box;
-    box-sizing: content-box;
-    padding: 5px;
-    border: 1px solid #1B78D6;
-    -webkit-border-radius: 0.2em;
-    border-radius: 0.2em;
-    font-size: 14px;
-    color: #fff;
-    white-space: nowrap;
-    background: #1B78D6;
-    cursor:pointer;
-    }
-</style>
-<script  type="text/javascript"  src="//va.ecitizen.gov.sg/cfp/va/iras/js/custom_widget.js"></script>
+[Chat with us online](https://v2.zopim.com/widget/livechat.html?api_calls=[[%22departments.filter%22,[%22Individual%20Income%20Tax%22,%22Property%20Tax%20(excluding%20Stamp%20Duties)%22,%22GST%22,%22IIT%20(Late%20and%20Non-filing%20or%20payment)%22,%22PTX%20(Late%20and%20Non-payment)%22,%22Auto-Inclusion%20Scheme%20for%20Employment%20Income%22,%22e-Submission%20of%20Donation%20and%20Commission%22,%22myTax%20Portal%20Login%20matters%22]]]&hostname=va.ecitizen.gov.sg&key=4vCgQdcppbfJwktT1Dk2vZSgK639d7YE&lang=en&){:target="_blank"}

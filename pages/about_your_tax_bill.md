@@ -84,37 +84,20 @@ For self-employed persons, sole-proprietors and partners: you can find out more 
 
 <span class="chat_emailteam_sgspr">Chat with us online</span>
 <style>
-
     .chat_emailteam_se {
-
     display: inline-block;
-
     -webkit-box-sizing: content-box;
-
     -moz-box-sizing: content-box;
-
     box-sizing: content-box;
-
     padding: 5px;
-
     border: 1px solid #1B78D6;
-
     -webkit-border-radius: 0.2em;
-
     border-radius: 0.2em;
-
     font-size: 14px;
-
     color: #fff;
-
     white-space: nowrap;
-
     background: #1B78D6;
-
     cursor:pointer;
-
     }
-
 </style>
-
 <script  type="text/javascript"  src="//va.ecitizen.gov.sg/cfp/va/iras/js/custom_widget.js"></script>

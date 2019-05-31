@@ -9,26 +9,28 @@
 locations:
   # HQ Address [REQUIRED]
   - title:
-    address: Inland Revenue Authority of Singapore <br>55 Newton Road<br>Revenue House<br>Singapore 307987
+    address: 5 Maxwell Road<br>1st Storey Tower Block<br>MND Complex<br>Singapore 069110
     find-directions: https://www.google.com.sg/maps/place/Board+of+Architects+(BOA)/@1.2793714,103.8439926,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1912b8578811:0x6b5e720d6eba45eb!8m2!3d1.2793714!4d103.8461813
   # Operating Hours [OPTIONAL]
     operating-hours:
-      - days: Mon - Fri
-        time: 8.00am - 5.00pm
-      - Eve of Christmas, New Year and Chinese New Year
-        time: 8 a.m. to 1 p.m. (with effect from 18th June 2018, last queue ticket issued at 12 noon)
-        description: "You are encouraged to make an appointment before visiting IRAS. Please make an appointment at least 2 working days in advance. When you visit, you will be served within 15 minutes from your appointment time. For visit without an appointment, please note that you may have to wait up to 2 hours.
-      - days: Weekends and Public Holidays
-        description: "Saturdays: Our e-kiosks located at the Self-Service Lobby will be available on Saturdays for taxpayers who need to access our e-Services.<br> Sundays and Public Holidays: We are closed"
+      - days: Mon - Thu
+        time: 8.30am - 6.00pm
+      - days: Fri
+        time: 8.30am - 5.30pm
+        description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
+
 
 # Contact Us
 column:
-  - title: Email Us
+  - title: General Enquiries & Feedback
     content:
     - line: +65 6222 5295
-    - line: Email us (email)
-    - line: [Chat with us online](https://v2.zopim.com/widget/livechat.html?api_calls=[[%22departments.filter%22,[%22Individual%20Income%20Tax%22,%22Property%20Tax%20(excluding%20Stamp%20Duties)%22,%22GST%22,%22IIT%20(Late%20and%20Non-filing%20or%20payment)%22,%22PTX%20(Late%20and%20Non-payment)%22,%22Auto-Inclusion%20Scheme%20for%20Employment%20Income%22,%22e-Submission%20of%20Donation%20and%20Commission%22,%22myTax%20Portal%20Login%20matters%22]]]&hostname=va.ecitizen.gov.sg&key=4vCgQdcppbfJwktT1Dk2vZSgK639d7YE&lang=en&){:target="_blank"} 
+    - line: boarch@singnet.com.sg (email)
     # If you have an email, put (email) after the actual email
+
+  - title: Fax
+    content:
+    - line: +65 6222 4452
 
 # Image
 image-url:
